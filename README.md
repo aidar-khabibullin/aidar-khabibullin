@@ -64,7 +64,7 @@ Open to **Senior Frontend** and **Staff Frontend** opportunities in SaaS, fintec
 ## 💻 Tech Stack
 
 | **Core** | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| --- | --- |
+| :--- | :--- |
 | **Frontend** | [![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/) [![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/) [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/) |
 | **Mobile** | [![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/) |
 | **Real-time** | [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)](#) [![SSE](https://img.shields.io/badge/Server--Sent%20Events-FF6B35?style=flat-square&logoColor=white)](#) |
