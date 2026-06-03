@@ -24,9 +24,7 @@ Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal F
 If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
 
 GitHub: github.com/aidar-khabibullin
-
 Telegram: t.me/aidar_work
-
 Email: ajobsforme@gmail.com
 
 ---
