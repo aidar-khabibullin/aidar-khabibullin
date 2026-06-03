@@ -2,7 +2,7 @@
 
 **Frontend Tech Lead** with 10+ years building high-performance SaaS products across fintech, cybersecurity, and e-commerce.
 
-Core stack: React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic / OpenAI) · Tailwind CSS · CI/CD · GitHub Actions
+React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic / OpenAI) · Tailwind CSS · CI/CD · GitHub Actions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
@@ -12,7 +12,7 @@ Core stack: React · TypeScript · Next.js (SSR/RSC) · React Native · WebSocke
 
 ## About
 
-Frontend Tech Lead with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
+I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
 
 I shipped an LLM-powered code review assistant to production, built on the Anthropic API, embedded in GitHub Actions CI. It compressed the automated feedback cycle from 2–4 hours to under 5 minutes per PR - and brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
 
@@ -24,7 +24,9 @@ Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal F
 If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
 
 GitHub: github.com/aidar-khabibullin
+
 Telegram: t.me/aidar_work
+
 Email: ajobsforme@gmail.com
 
 ---
