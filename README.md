@@ -2,7 +2,7 @@
 
 **Frontend Tech Lead** with 10+ years building high-performance SaaS products across fintech, cybersecurity, and e-commerce.
 
-React • TypeScript • Next.js • WebSockets • Real-time Systems • Performance
+Core stack: React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic / OpenAI) · Tailwind CSS · CI/CD · GitHub Actions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
@@ -12,13 +12,20 @@ React • TypeScript • Next.js • WebSockets • Real-time Systems • Perfor
 
 ## About
 
-Frontend Tech Lead with 10+ years of experience building high-performance SaaS products across fintech, cybersecurity, and e-commerce.
+Frontend Tech Lead with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
 
-I spent 5 years at **ShelterZoom**, working on a cybersecurity platform for digital content protection used by enterprise clients. I specialize in frontend architecture, performance optimization, and building complex real-time systems that operate at scale.
+I shipped an LLM-powered code review assistant to production, built on the Anthropic API, embedded in GitHub Actions CI. It compressed the automated feedback cycle from 2–4 hours to under 5 minutes per PR - and brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
 
-Comfortable taking ambiguous product briefs and shipping them end-to-end through close collaboration with product and design.
+Over 5 years at ShelterZoom - an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures - I grew from Senior into the Frontend Tech Lead role, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, set the engineering standards, moved us to weekly releases, and cut page load times by 35%.
 
-Open to **Senior Frontend** and **Staff Frontend** opportunities in SaaS, fintech, and high-scale product companies.
+What I'm good at is owning frontend architecture end-to-end, growing engineering teams and raising their bar, and turning a vague product brief into something scalable and performant.
+
+Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles in SaaS, cybersecurity, healthtech, EdTech, and e-commerce.
+If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
+
+GitHub: github.com/aidar-khabibullin
+Telegram: t.me/aidar_work
+Email: ajobsforme@gmail.com
 
 ---
 
