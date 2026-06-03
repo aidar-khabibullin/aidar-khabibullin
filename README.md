@@ -23,10 +23,6 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles in SaaS, cybersecurity, healthtech, EdTech, and e-commerce.
 If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
 
-GitHub: github.com/aidar-khabibullin
-Telegram: t.me/aidar_work
-Email: ajobsforme@gmail.com
-
 ---
 
 ## Highlights
