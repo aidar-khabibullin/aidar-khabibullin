@@ -1,8 +1,8 @@
 # Aidar Khabibullin
 
-**Frontend Tech Lead** with 10+ years building high-performance SaaS products across fintech, cybersecurity, and e-commerce.
+**Frontend Tech Lead** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
 
-React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic / OpenAI) · Tailwind CSS · CI/CD · GitHub Actions
+React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic) · Tailwind CSS · CI/CD · GitHub Actions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
@@ -12,16 +12,11 @@ React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQ
 
 ## About
 
-I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
-
 I shipped an LLM-powered code review assistant to production, built on the Anthropic API, embedded in GitHub Actions CI. It compressed the automated feedback cycle from 2–4 hours to under 5 minutes per PR - and brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
 
 Over 5 years at ShelterZoom - an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures - I grew from Senior into the Frontend Tech Lead role, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, set the engineering standards, moved us to weekly releases, and cut page load times by 35%.
 
 What I'm good at is owning frontend architecture end-to-end, growing engineering teams and raising their bar, and turning a vague product brief into something scalable and performant.
-
-Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles in SaaS, cybersecurity, healthtech, EdTech, and e-commerce.
-If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
 
 ---
 
@@ -38,29 +33,48 @@ If you're building something where frontend architecture is a product lever and 
 ## Selected Work
 
 ### Smart Contract & Document Platform · ShelterZoom (5 years)
-`Frontend Tech Lead` · `Next.js, TypeScript, React Native, WebSockets, Stripe`
+`Frontend Tech Lead` · `Cybersecurity / Document Intelligence SaaS · 51–200 employees`
 
-- Led frontend of ShelterZoom's core document platform — e-signature system, rich-text editor, real-time collaboration.
-- Architected admin panel with role-based access and Stripe integration, cutting manual admin work by 30%.
-- Built React Native subscription app in 6 months, improving user retention by 20%.
-- Shipped Gmail + Outlook browser extension for in-context smart contract creation, increasing content inflow by 25%.
-- Spearheaded Next.js performance optimizations reducing page load times by 35%.
-- Grew a 5-person frontend team into a self-sufficient unit; introduced code review standards and shortened release cycles.
+- Built an LLM-powered code review assistant (Anthropic API embedded in GitHub Actions CI) that automated TypeScript interface validation and linting across the full monorepo — compressed automated feedback from 2–4 hours of manual review to under 5 minutes per PR.
+- Optimized real-time collaboration performance on large enterprise documents via rendering virtualization and WebSocket state synchronization — achieved 5× throughput improvement and eliminated latency issues reported by enterprise clients.
+- Architected migration to Turborepo monorepo, consolidating web and mobile under shared packages and unified TypeScript types — accelerated feature delivery by 1.5× and established a weekly release cadence.
+- Grew frontend team from 2 to 5 engineers: hired 3 developers, introduced code review standards and technical onboarding — reduced engineer onboarding time by 40%; one engineer promoted to senior within 12 months.
+- Architected an admin panel with role-based access and Stripe integration — reduced manual admin tasks by 30%.
+- Engineered a React Native app in 6 months with seamless subscription management — improved user retention by 20%.
+- Led cross-functional delivery of a native e-signature system and rich-text editor supporting complex document formats, coordinating product, design, and backend — removed enterprise dependency on external document tools.
+- Refactored monolithic components into reusable feature-based modules — improved team development efficiency by 40%.
+- Implemented real-time state synchronization between web and mobile clients with consistent state reconciliation — eliminated cross-platform conflicts and delivered seamless cross-device experience.
+- Engineered a Gmail/Outlook extension for in-context smart contract creation — increased content inflow by 25%.
+- Implemented fallback rendering strategy and cross-browser compatibility — reduced display-related incidents by 30%.
+- Conducted performance audits across Next.js and TypeScript projects — reduced page load times by 35%.
+
+
 
 ### Banking Application · Sberbank
-`Senior Frontend Developer` · `React, TypeScript, CI/CD`
+`Senior Frontend Developer` · `Fintech · 51–200 employees`
 
-- Launched "Sberbank Vmeste" with a donation calculator that drove a 25% uplift in first-time donors.
-- Migrated 100+ components Angular → React with zero production downtime.
-- Delivered a customizable client management panel used by 50+ clients, cutting support requests by 70%.
-- Designed CI strategy that reduced engineer onboarding time by 40% and enabled weekly releases.
+- Launched the SberVmeste banking application including a donation calculator — drove 25% uplift in first-time donors.
+- Architected frontend application structure and CI pipeline for a new product line — reduced engineer onboarding time by 40% and enabled a weekly release cadence.
+- Migrated legacy frontend from Angular to React — refactored 100+ components with zero production downtime.
+- Mentored 3 mid-level developers in React architecture and best practices — accelerated code review velocity by 2×; one promoted to senior within 12 months.
+- Delivered a customizable client management panel used by 50+ clients — cut support requests by 70%.
+
 
 ### Cloud Backup Platform · OpenText Cloudally
-`Middle Frontend Developer` · `React 16, SSR, Rollup`
+`Middle Frontend Developer` · `Cybersecurity / SaaS · 11–50 employees`
 
-- Migrated frontend to React 16 with SSR — time-to-interactive down 46%, SEO traffic up 32%.
-- Optimized build with Rollup — bundle size down 31%, dev builds 2.7× faster.
-- Integrated Salesforce suite, improving customer acquisition by 32%.
+- Migrated frontend from Angular 6 to React 16 with SSR — cut time-to-interactive 46% and improved organic SEO traffic 32%.
+- Optimized build pipeline with Rollup — reduced bundle size by 31% and accelerated development builds by 2.7×.
+- Implemented feature-based module architecture — increased feature development speed by 1.5× through clear module boundaries and reduced code coupling.
+- Integrated a suite of Salesforce products — improved client onboarding and increased customer acquisition by 32%.
+
+### E-commerce Platform · LLC Runtime
+`Middle Frontend Developer` · `E-commerce · 11–50 employees`
+
+- Optimized React applications via code splitting, lazy loading, and asset prioritization — reduced LCP/TTI by 46%.
+- Established unit testing practices using React Testing Library — achieved 96% code coverage and shortened QA cycles.
+- Refactored feature modules and introduced feature flags — accelerated new feature rollouts while reducing deployment risk across production.
+- Optimized product listing and checkout flow interfaces — improved conversion metrics by 33%.
 
 ---
 
@@ -94,4 +108,4 @@ If you're building something where frontend architecture is a product lever and 
 
 - 📧 [ajobsforme@gmail.com](mailto:ajobsforme@gmail.com)
 - 💼 [linkedin.com/in/aidar-khabibullin](https://linkedin.com/in/aidar-khabibullin)
-- 📍 Istanbul, Turkey · Open to remote Senior / Staff / Tech Lead roles
+- 📍 Istanbul, Turkey · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles
