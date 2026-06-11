@@ -48,8 +48,6 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 - Implemented fallback rendering strategy and cross-browser compatibility — reduced display-related incidents by 30%.
 - Conducted performance audits across Next.js and TypeScript projects — reduced page load times by 35%.
 
-
-
 ### Banking Application · Sberbank
 `Senior Frontend Developer` · `Fintech` · `51–200 employees`
 
@@ -58,7 +56,6 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 - Migrated legacy frontend from Angular to React — refactored 100+ components with zero production downtime.
 - Mentored 3 mid-level developers in React architecture and best practices — accelerated code review velocity by 2×; one promoted to senior within 12 months.
 - Delivered a customizable client management panel used by 50+ clients — cut support requests by 70%.
-
 
 ### Cloud Backup Platform · OpenText Cloudally
 `Middle Frontend Developer` · `Cybersecurity / SaaS` · `11–50 employees`
@@ -97,8 +94,7 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 ---
 
 ## Contact
-
-- 📧 [ajobsforme@gmail.com](mailto:ajobsforme@gmail.com)
-- 💼 [linkedin.com/in/aidar-khabibullin](https://linkedin.com/in/aidar-khabibullin)
-- 📍 Istanbul, Turkey · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles.
-If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
+[![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-4A5568?style=flat-square&logo=googlemaps&logoColor=white)](#) · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles. If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
