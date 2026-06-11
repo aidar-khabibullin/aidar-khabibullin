@@ -2,7 +2,7 @@
 
 **Frontend Tech Lead** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
 
-`React` · `TypeScript` · `Next.js (SSR/RSC)` · `React Native` · `WebSockets` · `GraphQL` · `Redux Toolkit` · `Zustand` · `TanStack Query` · `Turborepo` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Vitest` · `LLM APIs (Anthropic)` · `Tailwind CSS` · `CI/CD` · `GitHub Actions`
+`React` · `TypeScript` · `Next.js (SSR/RSC)` · `React Native` · `WebSockets` · `GraphQL` · `Redux Toolkit` · `Zustand` · `Turborepo` · `TanStack Query` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Vitest` · `LLM APIs (Anthropic)` · `Tailwind CSS` · `CI/CD` · `GitHub Actions`
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
