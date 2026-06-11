@@ -2,8 +2,9 @@
 
 **Frontend Tech Lead** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
 
-React · TypeScript · Next.js (SSR/RSC) · React Native · WebSockets · GraphQL · Redux Toolkit · Zustand · TanStack Query · Turborepo · Nx · Vite · Core Web Vitals · Playwright · Vitest · LLM APIs (Anthropic) · Tailwind CSS · CI/CD · GitHub Actions
+`React` · `TypeScript` · `Next.js (SSR/RSC)` · `React Native` · `WebSockets` · `GraphQL` · `Redux Toolkit` · `Zustand` · `TanStack Query` · `Turborepo` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Vitest` · `LLM APIs (Anthropic)` · `Tailwind CSS` · `CI/CD` · `GitHub Actions`
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
 [![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-gray?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -17,6 +18,8 @@ I shipped an LLM-powered code review assistant to production, built on the Anthr
 Over 5 years at ShelterZoom - an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures - I grew from Senior into the Frontend Tech Lead role, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, set the engineering standards, moved us to weekly releases, and cut page load times by 35%.
 
 What I'm good at is owning frontend architecture end-to-end, growing engineering teams and raising their bar, and turning a vague product brief into something scalable and performant.
+
+Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles. If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
 
 ---
 
@@ -90,11 +93,3 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 | **Backend** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Next.js API](https://img.shields.io/badge/Next.js%20API%20Routes-black?style=flat-square&logo=next.js&logoColor=white)](#) [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/) [![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)](#) |
 | **CI/CD&nbsp;&&nbsp;Quality** | [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/) [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)](https://prettier.io/) [![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white)](https://typicode.github.io/husky/) [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)](https://sentry.io/) |
 | **Tools** | [![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/) |
-
----
-
-## Contact
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
-[![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-4A5568?style=flat-square&logo=googlemaps&logoColor=white)](#) · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles. If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
