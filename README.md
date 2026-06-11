@@ -32,8 +32,8 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 
 ## Selected Work
 
-### Smart Contract & Document Platform · ShelterZoom (5 years)
-`Frontend Tech Lead` · `Cybersecurity / Document Intelligence SaaS · 51–200 employees`
+### Smart Contract & Document Platform · ShelterZoom
+`Frontend Tech Lead` · `Cybersecurity / Document Intelligence SaaS` · `51–200 employees`
 
 - Built an LLM-powered code review assistant (Anthropic API embedded in GitHub Actions CI) that automated TypeScript interface validation and linting across the full monorepo — compressed automated feedback from 2–4 hours of manual review to under 5 minutes per PR.
 - Optimized real-time collaboration performance on large enterprise documents via rendering virtualization and WebSocket state synchronization — achieved 5× throughput improvement and eliminated latency issues reported by enterprise clients.
@@ -51,7 +51,7 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 
 
 ### Banking Application · Sberbank
-`Senior Frontend Developer` · `Fintech · 51–200 employees`
+`Senior Frontend Developer` · `Fintech` · `51–200 employees`
 
 - Launched the SberVmeste banking application including a donation calculator — drove 25% uplift in first-time donors.
 - Architected frontend application structure and CI pipeline for a new product line — reduced engineer onboarding time by 40% and enabled a weekly release cadence.
@@ -61,7 +61,7 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 
 
 ### Cloud Backup Platform · OpenText Cloudally
-`Middle Frontend Developer` · `Cybersecurity / SaaS · 11–50 employees`
+`Middle Frontend Developer` · `Cybersecurity / SaaS` · `11–50 employees`
 
 - Migrated frontend from Angular 6 to React 16 with SSR — cut time-to-interactive 46% and improved organic SEO traffic 32%.
 - Optimized build pipeline with Rollup — reduced bundle size by 31% and accelerated development builds by 2.7×.
@@ -69,7 +69,7 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 - Integrated a suite of Salesforce products — improved client onboarding and increased customer acquisition by 32%.
 
 ### E-commerce Platform · LLC Runtime
-`Middle Frontend Developer` · `E-commerce · 11–50 employees`
+`Middle Frontend Developer` · `E-commerce` · `11–50 employees`
 
 - Optimized React applications via code splitting, lazy loading, and asset prioritization — reduced LCP/TTI by 46%.
 - Established unit testing practices using React Testing Library — achieved 96% code coverage and shortened QA cycles.
@@ -95,17 +95,9 @@ What I'm good at is owning frontend architecture end-to-end, growing engineering
 
 ---
 
-## Leadership
-
-- **Team Lead** of a 5-person frontend team — introduced code review standards, cut release cycle time, grew team to full autonomy.
-- **Mentored** 5+ mid/junior developers; one promoted to senior in 12 months, another's code review velocity doubled.
-- **Hiring** — interviewed and onboarded frontend engineers; reduced onboarding time by 40%.
-- Comfortable working across product, design, and engineering in Agile/Scrum environments.
-
----
-
 ## Contact
 
 - 📧 [ajobsforme@gmail.com](mailto:ajobsforme@gmail.com)
 - 💼 [linkedin.com/in/aidar-khabibullin](https://linkedin.com/in/aidar-khabibullin)
-- 📍 Istanbul, Turkey · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles
+- 📍 Istanbul, Turkey · Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles.
+If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
