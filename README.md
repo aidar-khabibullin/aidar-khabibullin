@@ -39,6 +39,8 @@ Open to remote Senior Software Engineer, Staff / Principal Engineer, Tech Lead, 
 ### Smart Contract & Document Platform · ShelterZoom
 `Senior Software Engineer` · `Cybersecurity / Document Intelligence SaaS` · `51–200 employees`
 
+ShelterZoom is an enterprise cybersecurity SaaS - real-time document control, collaboration, and e-signature workflows for organizations.
+
 - Designed and built backend services in Python (FastAPI) for the e-signature workflow engine, handling document state transitions, signer sequencing, and signature verification.
 - Architected and shipped an LLM-powered code review assistant (Anthropic API) embedded in GitHub Actions CI - compressed automated feedback from 2–4 hours to under 5 minutes per PR; brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
 - Led real-time collaboration performance from baseline to 5× improvement on large enterprise documents through WebSocket state optimization and virtualized rendering - eliminated critical latency bottlenecks in customer-facing workflows.
@@ -55,28 +57,34 @@ Open to remote Senior Software Engineer, Staff / Principal Engineer, Tech Lead, 
 
 ### Banking Application · Sberbank
 `Senior Frontend Developer` · `Fintech` · `51–200 employees`
+SberVmeste is a Sberbank charitable donation platform enabling targeted, daily giving for users across Russia.
 
-- Launched the SberVmeste banking application including a donation calculator — drove 25% uplift in first-time donors.
-- Architected frontend application structure and CI pipeline for a new product line — reduced engineer onboarding time by 40% and enabled a weekly release cadence.
-- Migrated legacy frontend from Angular to React — refactored 100+ components with zero production downtime.
-- Mentored 3 mid-level developers in React architecture and best practices — accelerated code review velocity by 2×; one promoted to senior within 12 months.
-- Delivered a customizable client management panel used by 50+ clients — cut support requests by 70%.
+- Shipped the SberVmeste application including a donation calculator that drove a 25% uplift in first-time donors - a key conversion metric for the platform's social impact mission.
+- Designed the frontend architecture and CI pipeline for future applications - reduced engineer onboarding time by 40% and established a weekly release cadence.
+- Built an in-house payment system integrated directly into client dashboards.
+- Delivered a customizable client management panel used by 50+ clients - cut support requests by 70%.
+- Executed an incremental migration of 100+ Angular components to React with zero production downtime.
+- Mentored 3 mid-level engineers: accelerated code review velocity by 2×; 1 promoted to senior within 12 months.
 
 ### Cloud Backup Platform · OpenText Cloudally
 `Middle Frontend Developer` · `Cybersecurity / SaaS` · `11–50 employees`
 
-- Migrated frontend from Angular 6 to React 16 with SSR — cut time-to-interactive 46% and improved organic SEO traffic 32%.
-- Optimized build pipeline with Rollup — reduced bundle size by 31% and accelerated development builds by 2.7×.
-- Implemented feature-based module architecture — increased feature development speed by 1.5× through clear module boundaries and reduced code coupling.
-- Integrated a suite of Salesforce products — improved client onboarding and increased customer acquisition by 32%.
+OpenText Cloudally is an enterprise-grade SaaS Data Protection Platform providing backup and recovery for cloud applications.
+
+- Migrated the frontend to React 16 with SSR - cut time-to-interactive by 46% and improved organic SEO traffic by 32%.
+- Built an interactive admin panel with automated content analysis, streamlining routine management workflows.
+- Optimized the build pipeline with Rollup: reduced bundle size by 31% and accelerated dev builds by 2.7×.
+- Implemented feature-based module architecture - increased feature development speed by 1.5×.
+- Integrated Salesforce product suite for client onboarding flows - increased customer acquisition by 32%.
 
 ### E-commerce Platform · LLC Runtime
 `Middle Frontend Developer` · `E-commerce` · `11–50 employees`
 
-- Optimized React applications via code splitting, lazy loading, and asset prioritization — reduced LCP/TTI by 46%.
-- Established unit testing practices using React Testing Library — achieved 96% code coverage and shortened QA cycles.
-- Refactored feature modules and introduced feature flags — accelerated new feature rollouts while reducing deployment risk across production.
-- Optimized product listing and checkout flow interfaces — improved conversion metrics by 33%.
+- Optimized React applications via code splitting, lazy loading, and asset optimization, reducing LCP/TTI by 46%.
+- Enhanced testing and reliability with React unit tests, achieving 96% coverage and reducing QA cycle time.
+- Refactored feature modules in React and introduced feature flags, accelerating rollout of new features while minimizing production risks.
+- Mentored junior developers in React best practices, standardizing coding patterns and speeding up onboarding.
+- Streamlined React-based interfaces, including product listings and checkout flows, increasing experiment participation and improving conversion metrics by 33%.
 
 ---
 
