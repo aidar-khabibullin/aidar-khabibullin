@@ -1,9 +1,9 @@
 # Aidar Khabibullin
 
-**Frontend Tech Lead** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce. I work at the product level. I own architecture decisions that affect the whole org. I set the engineering standards, and I keep design, product, and backend moving in the same direction.
+**Senior Software Engineer** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce — from frontend architecture to backend services and infrastructure.
 
-`React` · `TypeScript` · `Next.js (SSR/RSC)` · `React Native` · `WebSockets` · `GraphQL` · `Redux Toolkit` · `Zustand` · `Turborepo`
-`TanStack Query` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Vitest` · `LLM APIs (Anthropic)` · `Tailwind CSS` · `CI/CD` · `GitHub Actions`
+`React` · `TypeScript` · `Node.js` · `Python` · `Fast API` · `WebSockets` · `GraphQL` · `Next.js (SSR/RSC)` · `LLM` · `Turborepo`
+`TanStack Query` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Feature-Sliced Design` · `LLM APIs (Anthropic)` · `Docker` · `CI/CD` · `PostgreSQL` · `GitHub Actions`
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
@@ -14,13 +14,13 @@
 
 ## About
 
-I shipped an LLM-powered code review assistant to production, built on the Anthropic API, embedded in GitHub Actions CI. It compressed the automated feedback cycle from 2–4 hours to under 5 minutes per PR - and brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
+I shipped an LLM-powered code review assistant to production, built on the Anthropic API and embedded in GitHub Actions CI — compressing the automated feedback cycle from 2–4 hours to under 5 minutes per PR, and bringing TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
 
-Over 5 years at ShelterZoom - an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures - I grew from Senior into the Frontend Tech Lead role, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, set the engineering standards, moved us to weekly releases, and cut page load times by 35%.
+Over 5 years at ShelterZoom — an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures — I grew from Senior Engineer into Tech Lead, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, moved the team to weekly releases, and cut page load times by 35%.
 
-What I'm good at is owning frontend architecture end-to-end, growing engineering teams and raising their bar, and turning a vague product brief into something scalable and performant.
+What I'm good at: owning architecture end-to-end across frontend and backend, growing engineering teams and raising their bar, and turning a vague product brief into something scalable, secure, and performant.
 
-Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal Frontend Engineer, and Frontend Architect roles. If you're building something where frontend architecture is a product lever and not just a styling layer, let's talk.
+Open to remote Senior Software Engineer, Staff / Principal Engineer, Tech Lead, and Architect roles in fintech, cybersecurity, and e-commerce. If you're building something where architecture — frontend or backend — is a product lever and not just a styling layer, let's talk.
 
 ---
 
@@ -37,20 +37,21 @@ Open to remote Frontend Tech Lead, Senior Frontend Engineer, Staff / Principal F
 ## Selected Work
 
 ### Smart Contract & Document Platform · ShelterZoom
-`Frontend Tech Lead` · `Cybersecurity / Document Intelligence SaaS` · `51–200 employees`
+`Senior Software Engineer` · `Cybersecurity / Document Intelligence SaaS` · `51–200 employees`
 
-- Built an LLM-powered code review assistant (Anthropic API embedded in GitHub Actions CI) that automated TypeScript interface validation and linting across the full monorepo — compressed automated feedback from 2–4 hours of manual review to under 5 minutes per PR.
-- Optimized real-time collaboration performance on large enterprise documents via rendering virtualization and WebSocket state synchronization — achieved 5× throughput improvement and eliminated latency issues reported by enterprise clients.
-- Architected migration to Turborepo monorepo, consolidating web and mobile under shared packages and unified TypeScript types — accelerated feature delivery by 1.5× and established a weekly release cadence.
-- Grew frontend team from 2 to 5 engineers: hired 3 developers, introduced code review standards and technical onboarding — reduced engineer onboarding time by 40%; one engineer promoted to senior within 12 months.
-- Architected an admin panel with role-based access and Stripe integration — reduced manual admin tasks by 30%.
-- Engineered a React Native app in 6 months with seamless subscription management — improved user retention by 20%.
-- Led cross-functional delivery of a native e-signature system and rich-text editor supporting complex document formats, coordinating product, design, and backend — removed enterprise dependency on external document tools.
-- Refactored monolithic components into reusable feature-based modules — improved team development efficiency by 40%.
-- Implemented real-time state synchronization between web and mobile clients with consistent state reconciliation — eliminated cross-platform conflicts and delivered seamless cross-device experience.
-- Engineered a Gmail/Outlook extension for in-context smart contract creation — increased content inflow by 25%.
-- Implemented fallback rendering strategy and cross-browser compatibility — reduced display-related incidents by 30%.
-- Conducted performance audits across Next.js and TypeScript projects — reduced page load times by 35%.
+- Designed and built backend services in Python (FastAPI) for the e-signature workflow engine, handling document state transitions, signer sequencing, and signature verification.
+- Architected and shipped an LLM-powered code review assistant (Anthropic API) embedded in GitHub Actions CI - compressed automated feedback from 2–4 hours to under 5 minutes per PR; brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
+- Led real-time collaboration performance from baseline to 5× improvement on large enterprise documents through WebSocket state optimization and virtualized rendering - eliminated critical latency bottlenecks in customer-facing workflows.
+- Implemented asynchronous processing with RabbitMQ, decoupling document processing from the real-time API layer for reliability at scale.
+- Built and maintained CI/CD pipelines via GitHub Actions, automating test and deploy across frontend, editor backend, and signature services.
+- Owned the frontend architecture strategy; drove the full migration from a monolithic codebase to a Turborepo monorepo, consolidating web and mobile into a unified workspace with shared packages, typed contracts, and centralized CI - enabling weekly releases and +1.5× feature development velocity.
+- Grew the frontend team from 2 to 5 engineers; built engineering standards and code review practices that made the team fully self-sufficient and promoted 1 engineer to senior; reduced engineer onboarding time by 40%.
+- Led cross-functional delivery with product, design, and backend to ship a native e-signature system and a rich-text editor with full support for complex document formats - replacing external tooling and closing a critical enterprise gap.
+- Refactored a monolithic codebase into a feature-based module architecture - improved team development velocity by 40% through reusable components and eliminated code duplication.
+- Designed and implemented real-time cross-device state synchronization between web and mobile clients with conflict resolution - delivering consistent, seamless UX across all platforms.
+- Led performance optimization across Next.js and TypeScript projects; reduced page load times by 35% and brought Core Web Vitals within target range.
+- Shipped Document GPS - a browser extension for Gmail and Outlook enabling in-context smart-contract creation for blockchain-tracked documents - increasing content inflow by 25%.
+- Implemented systematic fallback rendering and cross-browser compatibility strategy, reducing UI incident reports by 30%.
 
 ### Banking Application · Sberbank
 `Senior Frontend Developer` · `Fintech` · `51–200 employees`
