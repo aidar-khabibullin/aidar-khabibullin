@@ -2,7 +2,7 @@
 
 **Senior Software Engineer** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce — from frontend architecture to backend services and infrastructure.
 
-`React` · `TypeScript` · `Node.js` · `Python` · `Fast API` · `WebSockets` · `GraphQL` · `Next.js (SSR/RSC)` · `LLM` · `Turborepo`
+`Go` · `PostgreSQL` · `Apache Kafka` · `React` · `TypeScript` · `Node.js` · `WebSockets` · `Next.js (SSR/RSC)` · `LLM` · `Turborepo`
 `TanStack Query` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Feature-Sliced Design` · `LLM APIs (Anthropic)` · `Docker` · `CI/CD` · `PostgreSQL` · `GitHub Actions`
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
@@ -13,14 +13,24 @@
 ---
 
 ## About
+Senior Software Engineer and Tech Lead with almost 10 years building web products, 7 of them in cybersecurity and data protection SaaS. I work across the stack, with a backend focus on Go, Kafka and PostgreSQL.
 
-I shipped an LLM-powered code review assistant to production, built on the Anthropic API and embedded in GitHub Actions CI — compressing the automated feedback cycle from 2–4 hours to under 5 minutes per PR, and bringing TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
+At ShelterZoom, an enterprise cybersecurity SaaS for document control and e-signatures, I built Go services for subscription payments, notifications and real-time document generation, connected through Kafka. I set up change data capture from PostgreSQL with Debezium and Kafka Connect, so services react to data changes without dual writes.
 
-Over 5 years at ShelterZoom — an enterprise cybersecurity SaaS with real-time collaboration, document workflows, and e-signatures — I grew from Senior Engineer into Tech Lead, leading a 5-engineer team for the last 3. I drove the full migration from a monolithic frontend to a Turborepo monorepo, moved the team to weekly releases, and cut page load times by 35%.
+I also led the frontend team there. We grew from 2 to 5 engineers, moved from a monolith to a Turborepo monorepo with weekly releases, and made real-time collaboration 5× faster on large documents.
 
-What I'm good at: owning architecture end-to-end across frontend and backend, growing engineering teams and raising their bar, and turning a vague product brief into something scalable, secure, and performant.
+The project I like talking about most: an LLM code review assistant on the Anthropic API, running in GitHub Actions. Automated PR feedback went from 2–4 hours to under 5 minutes.
 
-Open to remote Senior Software Engineer, Staff / Principal Engineer, Tech Lead, and Architect roles in fintech, cybersecurity, and e-commerce. If you're building something where architecture — frontend or backend — is a product lever and not just a styling layer, let's talk.
+Before that:
+• Sberbank: built the payment system for the SberVmeste donation platform, from checkout and acquiring to recurring donations and the payment backend.
+• OpenText Cloudally: Python workers for backup and restore, Redis, Salesforce API integration.
+• Moneta: product listing and checkout flows for an e-commerce marketplace, +33% conversion.
+
+I hold a Master's in Information Security, and lately I write here about PostgreSQL internals, replication and Kafka. In design reviews my first question is which invariant must never break, and what protects it during a failover.
+
+Stack: Go, TypeScript, React, Next.js, Python, PostgreSQL, Redis, Kafka, Debezium, RabbitMQ, Docker, Kubernetes, AWS, GraphQL, WebSockets, Playwright.
+
+Open to remote Senior Software Engineer and Tech Lead roles, or hybrid in Istanbul, in cybersecurity and e-commerce. Based in Istanbul, working in English, Russian and Turkish.
 
 ---
 
