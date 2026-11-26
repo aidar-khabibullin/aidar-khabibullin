@@ -1,115 +1,90 @@
 # Aidar Khabibullin
 
-**Senior Software Engineer** with 10+ years building SaaS products in fintech, cybersecurity, and e-commerce — from frontend architecture to backend services and infrastructure.
+**Senior Full Stack Engineer (Go + React)** · 10+ years building SaaS products in cybersecurity, fintech and e-commerce
 
-`Go` · `PostgreSQL` · `Apache Kafka` · `React` · `TypeScript` · `Node.js` · `WebSockets` · `Next.js (SSR/RSC)` · `LLM` · `Turborepo`
-`TanStack Query` · `Nx` · `Vite` · `Core Web Vitals` · `Playwright` · `Feature-Sliced Design` · `LLM APIs (Anthropic)` · `Docker` · `CI/CD` · `PostgreSQL` · `GitHub Actions`
+Istanbul, Turkey · Remote / Hybrid · English, Russian
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidar_work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aidar-khabibullin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ajobsforme@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:aidar.khabibullin@outlook.com)
 [![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-gray?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 ---
 
 ## About
-Senior Software Engineer and Tech Lead with almost 10 years building web products, 7 of them in cybersecurity and data protection SaaS. I work across the stack, with a backend focus on Go, Kafka and PostgreSQL.
 
-At ShelterZoom, an enterprise cybersecurity SaaS for document control and e-signatures, I built Go services for subscription payments, notifications and real-time document generation, connected through Kafka. I set up change data capture from PostgreSQL with Debezium and Kafka Connect, so services react to data changes without dual writes.
+I build enterprise SaaS end to end: React/TypeScript/Next.js interfaces, API integrations, and production backends in Go with Kafka and PostgreSQL. I have led a full-stack team as Tech Lead and own what I ship in production.
 
-I also led the frontend team there. We grew from 2 to 5 engineers, moved from a monolith to a Turborepo monorepo with weekly releases, and made real-time collaboration 5× faster on large documents.
+In design reviews my first question is which invariant must never break, and what protects it during a failover.
 
-The project I like talking about most: an LLM code review assistant on the Anthropic API, running in GitHub Actions. Automated PR feedback went from 2–4 hours to under 5 minutes.
-
-Before that:
-• Sberbank: built the payment system for the SberVmeste donation platform, from checkout and acquiring to recurring donations and the payment backend.
-• OpenText Cloudally: Python workers for backup and restore, Redis, Salesforce API integration.
-• Moneta: product listing and checkout flows for an e-commerce marketplace, +33% conversion.
-
-I hold a Master's in Information Security, and lately I write here about PostgreSQL internals, replication and Kafka. In design reviews my first question is which invariant must never break, and what protects it during a failover.
-
-Stack: Go, TypeScript, React, Next.js, Python, PostgreSQL, Redis, Kafka, Debezium, RabbitMQ, Docker, Kubernetes, AWS, GraphQL, WebSockets, Playwright.
-
-Open to remote Senior Software Engineer and Tech Lead roles, or hybrid in Istanbul, in cybersecurity and e-commerce. Based in Istanbul, working in English, Russian and Turkish.
+**Open to:** remote Senior Full Stack / Senior Software Engineer and Tech Lead roles, or hybrid in Istanbul.
 
 ---
 
-## Highlights
+## Impact
 
-- ⚡ **5× real-time collaboration performance** on large-scale documents through virtualization and WebSocket state optimization — removed key latency bottlenecks in enterprise workflows.
-- 🤖 **LLM-powered code analysis assistant** (OpenAI / Anthropic) with streaming UI and token management — cut component review time by 30%.
-- 🔄 **Real-time cross-device synchronization** across web and mobile clients with consistent state reconciliation.
-- 📝 **Core document platform** at ShelterZoom — led frontend for full e-signature system and a rich-text editor supporting complex document formats and extensibility.
-- 🏗️ **Monolith → micro-frontends migration** — delivered an in-editor signing workflow embedded directly into enterprise document flows.
-
----
-
-## Selected Work
-
-### Smart Contract & Document Platform · ShelterZoom
-`Senior Software Engineer` · `Cybersecurity / Document Intelligence SaaS` · `51–200 employees`
-
-ShelterZoom is an enterprise cybersecurity SaaS - real-time document control, collaboration, and e-signature workflows for organizations.
-
-- Designed and built backend services in Python (FastAPI) for the e-signature workflow engine, handling document state transitions, signer sequencing, and signature verification.
-- Architected and shipped an LLM-powered code review assistant (Anthropic API) embedded in GitHub Actions CI - compressed automated feedback from 2–4 hours to under 5 minutes per PR; brought TypeScript static analysis coverage across a Turborepo monorepo from 0% to 100%.
-- Led real-time collaboration performance from baseline to 5× improvement on large enterprise documents through WebSocket state optimization and virtualized rendering - eliminated critical latency bottlenecks in customer-facing workflows.
-- Implemented asynchronous processing with RabbitMQ, decoupling document processing from the real-time API layer for reliability at scale.
-- Built and maintained CI/CD pipelines via GitHub Actions, automating test and deploy across frontend, editor backend, and signature services.
-- Owned the frontend architecture strategy; drove the full migration from a monolithic codebase to a Turborepo monorepo, consolidating web and mobile into a unified workspace with shared packages, typed contracts, and centralized CI - enabling weekly releases and +1.5× feature development velocity.
-- Grew the frontend team from 2 to 5 engineers; built engineering standards and code review practices that made the team fully self-sufficient and promoted 1 engineer to senior; reduced engineer onboarding time by 40%.
-- Led cross-functional delivery with product, design, and backend to ship a native e-signature system and a rich-text editor with full support for complex document formats - replacing external tooling and closing a critical enterprise gap.
-- Refactored a monolithic codebase into a feature-based module architecture - improved team development velocity by 40% through reusable components and eliminated code duplication.
-- Designed and implemented real-time cross-device state synchronization between web and mobile clients with conflict resolution - delivering consistent, seamless UX across all platforms.
-- Led performance optimization across Next.js and TypeScript projects; reduced page load times by 35% and brought Core Web Vitals within target range.
-- Shipped Document GPS - a browser extension for Gmail and Outlook enabling in-context smart-contract creation for blockchain-tracked documents - increasing content inflow by 25%.
-- Implemented systematic fallback rendering and cross-browser compatibility strategy, reducing UI incident reports by 30%.
-
-### Banking Application · Sberbank
-`Senior Frontend Developer` · `Fintech` · `51–200 employees`
-SberVmeste is a Sberbank charitable donation platform enabling targeted, daily giving for users across Russia.
-
-- Shipped the SberVmeste application including a donation calculator that drove a 25% uplift in first-time donors - a key conversion metric for the platform's social impact mission.
-- Designed the frontend architecture and CI pipeline for future applications - reduced engineer onboarding time by 40% and established a weekly release cadence.
-- Built an in-house payment system integrated directly into client dashboards.
-- Delivered a customizable client management panel used by 50+ clients - cut support requests by 70%.
-- Executed an incremental migration of 100+ Angular components to React with zero production downtime.
-- Mentored 3 mid-level engineers: accelerated code review velocity by 2×; 1 promoted to senior within 12 months.
-
-### Cloud Backup Platform · OpenText Cloudally
-`Middle Frontend Developer` · `Cybersecurity / SaaS` · `11–50 employees`
-
-OpenText Cloudally is an enterprise-grade SaaS Data Protection Platform providing backup and recovery for cloud applications.
-
-- Migrated the frontend to React 16 with SSR - cut time-to-interactive by 46% and improved organic SEO traffic by 32%.
-- Built an interactive admin panel with automated content analysis, streamlining routine management workflows.
-- Optimized the build pipeline with Rollup: reduced bundle size by 31% and accelerated dev builds by 2.7×.
-- Implemented feature-based module architecture - increased feature development speed by 1.5×.
-- Integrated Salesforce product suite for client onboarding flows - increased customer acquisition by 32%.
-
-### E-commerce Platform · LLC Runtime
-`Middle Frontend Developer` · `E-commerce` · `11–50 employees`
-
-- Optimized React applications via code splitting, lazy loading, and asset optimization, reducing LCP/TTI by 46%.
-- Enhanced testing and reliability with React unit tests, achieving 96% coverage and reducing QA cycle time.
-- Refactored feature modules in React and introduced feature flags, accelerating rollout of new features while minimizing production risks.
-- Mentored junior developers in React best practices, standardizing coding patterns and speeding up onboarding.
-- Streamlined React-based interfaces, including product listings and checkout flows, increasing experiment participation and improving conversion metrics by 33%.
+| | |
+|---|---|
+| **−35%** | failed transactions after Stripe integration with idempotent webhooks and subscription reconciliation |
+| **−65%** | p95 sync latency in real-time collaboration; concurrent editors grew from 5 to 20+ |
+| **−50%** | failed jobs, via idempotent Kafka consumers and a DLQ |
+| **2 h → 20 min** | deployment time for 12 Go microservices and all frontend apps on AWS EKS |
+| **1.5×** | faster feature delivery after migrating to a Turborepo monorepo |
+| **−40%** | engineer onboarding time; team grown from 2 to 5 developers |
 
 ---
 
-## 💻 Tech Stack
+## Experience
 
-| **Core** | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| :--- | :--- |
-| **Frontend** | [![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/) [![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![React Native](https://img.shields.io/badge/React%20Native-20232a?style=flat-square&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/) |
-| **Styling & UI** | [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/) [![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)](https://mui.com/) [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) |
-| **State & Data** | [![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)](https://redux-toolkit.js.org/) [![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/) [![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)](https://tanstack.com/query) [![TanStack Table](https://img.shields.io/badge/TanStack%20Table-FF4154?style=flat-square&logo=react-table&logoColor=white)](https://tanstack.com/table) [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)](https://react-hook-form.com/) [![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)](https://zod.dev/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/) [![REST](https://img.shields.io/badge/REST-009688?style=flat-square&logo=fastapi&logoColor=white)](#) |
-| **Real-time** | [![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)](#) |
-| **Architecture** | [![Monorepo](https://img.shields.io/badge/Monorepo-0F172A?style=flat-square&logo=turborepo&logoColor=white)](#) [![Feature-Sliced Design](https://img.shields.io/badge/Feature--Sliced%20Design-1E1E1E?style=flat-square&logo=feature&logoColor=white)](https://feature-sliced.design/) [![Microfrontends](https://img.shields.io/badge/Microfrontends-4A154B?style=flat-square&logo=module-federation&logoColor=white)](#) [![SSR/RSC](https://img.shields.io/badge/SSR%20%2F%20RSC-000000?style=flat-square&logo=next.js&logoColor=white)](#) |
-| **Build & Perf** | [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/) [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/) [![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)](https://rollupjs.org/) [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)](https://turbo.build/) [![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)](https://nx.dev/) [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)](https://pnpm.io/) |
-| **AI** | [![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com/) |
-| **Testing** | [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](https://jestjs.io/) [![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=flat-square&logo=vitest&logoColor=white)](https://vitest.dev/) [![React Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)](https://testing-library.com/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![MSW](https://img.shields.io/badge/MSW-FF6A33?style=flat-square&logo=mockserviceworker&logoColor=white)](https://mswjs.io/) [![fast-check](https://img.shields.io/badge/fast--check-AD1457?style=flat-square&logo=jasmine&logoColor=white)](https://fast-check.dev/) |
-| **Backend** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Next.js API](https://img.shields.io/badge/Next.js%20API%20Routes-black?style=flat-square&logo=next.js&logoColor=white)](#) [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/) [![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)](#) |
-| **CI/CD&nbsp;&&nbsp;Quality** | [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions) [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://docs.gitlab.com/ee/ci/) [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/) [![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)](https://prettier.io/) [![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white)](https://typicode.github.io/husky/) [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)](https://sentry.io/) |
-| **Tools** | [![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/) |
+### Senior Full Stack Engineer · ShelterZoom
+`Apr 2021 – Sep 2026` · New York, US (Remote) · Enterprise cybersecurity SaaS: document control, collaboration, e-signatures
+
+- Built an end-to-end signing workflow (Apryse e-signatures, Go, React): multi-party orchestration, signer routing and a tamper-evident audit trail for 150+ enterprise customers.
+- Optimized real-time collaboration with WebSockets, Redis Pub/Sub and optimistic UI across Kubernetes pods: p95 sync latency down ~65%, concurrent editors from 5 to 20+.
+- Built 4 Go microservices on Kafka and PostgreSQL (document processing, notifications, audit, access control); failed jobs down ~50% with idempotent consumers and a DLQ.
+- Led the migration to a Turborepo monorepo with shared React/TypeScript packages, shipping desktop and mobile apps plus Gmail and Outlook add-ins from one codebase.
+- Automated CI/CD for 12 Go microservices and all frontend apps on AWS EKS (GitHub Actions, Docker, Helm) with parallel tests, layer caching and auto-rollbacks.
+- Scaled the team from 2 to 5 developers as Tech Lead: code review standards, architecture docs, buddy system.
+- Integrated Stripe payments and subscriptions with Go services: idempotent webhook processing and reconciliation.
+
+### Senior Full Stack Engineer · Sberbank (SberVmeste)
+`Jan 2020 – Apr 2021` · Moscow (Remote) · Fintech, charitable donation platform
+
+- Built the donation payment system from scratch (React, TypeScript, Node.js): acquiring integration, daily/monthly subscriptions, auto-closing campaigns. 100K+ donations worth $1M+.
+- Launched the SberVmeste web app with live campaign progress, a donor account for recurring gifts and a donation calculator: +25% first-time donors.
+- Built a customizable partner portal (React, Redux) for 50+ charities: support requests down 70%.
+
+### Frontend Engineer · CloudAlly (now OpenText CloudAlly Backup)
+`Feb 2018 – Jan 2020` · Ontario, Canada · Cybersecurity / SaaS data protection
+
+- Built the React UI for backup and restore: scheduling, point-in-time restore and job monitoring for Office 365, G Suite and Salesforce.
+- Delivered Backup for Salesforce onboarding (OAuth org connection, self-service setup): +32% customer acquisition.
+- Built the MSP Partner Portal with a unified dashboard for 600+ partners.
+
+### Frontend Engineer · Moneta (Runtime LLC)
+`Oct 2016 – Feb 2018` · Moscow · E-commerce, group-buying marketplace
+
+- Redesigned catalog and group-purchase pages (React, Redux): +33% checkout conversion.
+- Cut page load time and Time to Interactive by 46% with code splitting, lazy loading and image optimization.
+- Integrated online payments with order confirmation and status tracking.
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Backend** | Go, gRPC, Protobuf, REST, WebSockets, GraphQL, Node.js, Python |
+| **Frontend** | React, TypeScript, Next.js (App Router, SSR/RSC), Redux Toolkit, TanStack Query, Tailwind CSS, Turborepo |
+| **Data & Messaging** | Apache Kafka, Kafka Connect, PostgreSQL, MongoDB, Redis, Elasticsearch / AWS OpenSearch |
+| **Cloud & Infra** | AWS, Kubernetes, Docker, GitLab CI/CD, GitHub Actions |
+| **Testing** | Jest, Vitest, React Testing Library, Playwright, Testify, load and stress testing |
+| **Observability** | Prometheus, Grafana, Kibana, Sentry |
+| **AI** | AI-assisted development, LLM APIs (Anthropic, OpenAI), Claude Code |
+| **Expertise** | Microservices, Event-driven architecture, Distributed systems, System design, Idempotency & reliability patterns (retries, DLQ), Clean architecture, Technical leadership, Mentoring |
+
+---
+
+## Education
+
+**Master's degree in Information Security and Computer Technologies**, Kazan National Research Technical University (KAI), 2008–2014
